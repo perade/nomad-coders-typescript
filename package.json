@@ -1,0 +1,11 @@
+{
+  "name": "nomad-coders-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/perade/nomad-coders-typescript.git",
+  "author": "perade <perade0530@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node index.js"
+  }
+}
